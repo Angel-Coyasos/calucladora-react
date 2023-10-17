@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calucladora-react/static/css/main.19167a44.css",
+    "main.js": "/calucladora-react/static/js/main.38307f6a.js",
+    "static/media/freecodecamp-logo.png": "/calucladora-react/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/calucladora-react/index.html",
+    "main.19167a44.css.map": "/calucladora-react/static/css/main.19167a44.css.map",
+    "main.38307f6a.js.map": "/calucladora-react/static/js/main.38307f6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19167a44.css",
+    "static/js/main.38307f6a.js"
+  ]
+}
